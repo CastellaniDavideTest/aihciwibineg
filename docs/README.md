@@ -1,20 +1,17 @@
 # aihciwibineg-aihciwibineg
-[![GitHub license](https://img.shields.io/badge/license-GNU-green?style=flat)](https://github.com/aihciwibineg/blob/main/docs/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-GNU-green?style=flat)](https://github.com/CastellaniDavideTest/aihciwibineg/blob/main/docs/LICENSE)
 ![Author](https://img.shields.io/badge/author-DavideC03-green?style=flat)
 ![sys.platform supported](https://img.shields.io/badge/OS%20platform%20supported-all-blue?style=flat) 
 
 ##  Description 
 tstsy
-
-
-This repo is made using createstructure and this template:
-![createstructure/default-template](https://opengraph.githubassets.com/cf4891d1ca34cb9699f58b62ad889f1b369fad174bbb7dc2b3abfa7b482580a6/aihciwibineg)
+![CastellaniDavideTest/aihciwibineg](https://opengraph.githubassets.com/d763abe5fd6e4d22f280f8dbaad3febab7e5356769eb2a639e6ba265e344b9ae/CastellaniDavideTest/aihciwibineg)
 ##  Directory structure 
 
 ```
 
 ├── bin # source code
-│   └── aihciwibineg
+│   └── aihciwibin # source codeeg
 └── docs # documentation
     ├── CHANGELOG.md
     ├── CODE_OF_CONDUCT.md
@@ -29,8 +26,6 @@ tstsy
 - [ Changelog ](#changelog)
   - [[01.01.01] - 2023-01-30](#010101---2023-01-30)
 
-### [10.01.02] - 2022-01-05
-- [Add sponsorship button](https://github.com/createstructure/createstructure.github.io/issues/36)
 
 ### [10.01.01] - 2021-12-10
 - [v10-beta (aihciwibineg-aihciwibineg)](https://github.com/aihciwibineg/issues/5)
@@ -44,5 +39,5 @@ tstsy
 Made w/ :heart: by Castellani Davide
 
 If you want to contribute you can start with:
-- [Discussion](https://github.com/aihciwibineg/discussions)
-- [Issue](https://github.com/aihciwibineg/issues/new)
+- [Discussion](https://github.com/CastellaniDavideTest/aihciwibineg/discussions)
+- [Issue](https://github.com/CastellaniDavideTest/aihciwibineg/issues/new)
